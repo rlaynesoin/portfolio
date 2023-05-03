@@ -1,0 +1,18 @@
+$primary-color: #ffd700;
+
+@import 'animate.css';
+
+@font-face {
+  font-family: 'Lemon Days';
+  src: url('./assets/fonts/Lemon Days.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Lemon Milk';
+  src: url('./assets/fonts/LEMONMILK-Regular.otf') format('otf');
+}
+
+input,
+textarea {
+  font-family: 'Lemon Days';
+}
